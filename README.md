@@ -20,6 +20,10 @@ Instalar todas as dependências
 ```
 yarn
 ```
+Iniciar a aplicação
+```
+yarn start
+```
 Aplicar testes
 ```
 yarn test
